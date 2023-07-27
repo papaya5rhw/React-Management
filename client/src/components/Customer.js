@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 //동적
 class Customer extends React.Component{
     render(){
